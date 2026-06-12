@@ -1,0 +1,23 @@
+[
+  { "name": "トキ", "file": "toki.png", "enabled": true },
+  { "name": "エリカ", "file": "erika.png", "enabled": true },
+  { "name": "iv", "file": "iv.png", "enabled": true },
+  { "name": "空木", "file": "utsugi.png", "enabled": true },
+  { "name": "ぼたん", "file": "botan.png", "enabled": true },
+  { "name": "龍華", "file": "ryuka.png", "enabled": true },
+  { "name": "ヒカリ", "file": "hikari.png", "enabled": true },
+  { "name": "ユウリ", "file": "yuuri.png", "enabled": true },
+  { "name": "サザレ", "file": "sazare.png", "enabled": true },
+  { "name": "サフラン", "file": "saffron.png", "enabled": true },
+  { "name": "トウカ", "file": "touka.png", "enabled": true },
+  { "name": "ライ", "file": "rai.png", "enabled": true },
+  { "name": "ショウ", "file": "shou.png", "enabled": true },
+  { "name": "ニゲラ", "file": "nigella.png", "enabled": true },
+  { "name": "シア", "file": "shia.png", "enabled": true },
+  { "name": "Ruri", "file": "ruri.png", "enabled": true },
+  { "name": "翠", "file": "sui.png", "enabled": true },
+  { "name": "ナグサ", "file": "nagusa.png", "enabled": true },
+  { "name": "リラ", "file": "rira.png", "enabled": true },
+  { "name": "橘", "file": "tatibana.png", "enabled": true },
+  { "name": "ウリス", "file": "urisu.png", "enabled": true }
+]
