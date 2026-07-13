@@ -19,6 +19,6 @@
   { "name": "ナグサ", "file": "nagusa.png", "enabled": true },
   { "name": "リラ", "file": "rira.png", "enabled": true },
   { "name": "橘", "file": "tatibana.png", "enabled": true },
-  { "name": "ウリス", "file": "urisu.png", "enabled": true }
+  { "name": "ウリス", "file": "urisu.png", "enabled": true },
   { "name": "フィル", "file": "fill.png", "enabled": true }
 ]
